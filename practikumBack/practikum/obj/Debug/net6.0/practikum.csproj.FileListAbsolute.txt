@@ -1,0 +1,15 @@
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\practikum\bin\Debug\net6.0\practikum.exe
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\practikum\bin\Debug\net6.0\practikum.deps.json
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\practikum\bin\Debug\net6.0\practikum.runtimeconfig.json
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\practikum\bin\Debug\net6.0\practikum.dll
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\practikum\bin\Debug\net6.0\ref\practikum.dll
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\practikum\bin\Debug\net6.0\practikum.pdb
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\practikum\obj\Debug\net6.0\practikum.csproj.AssemblyReference.cache
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\practikum\obj\Debug\net6.0\practikum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\practikum\obj\Debug\net6.0\practikum.AssemblyInfoInputs.cache
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\practikum\obj\Debug\net6.0\practikum.AssemblyInfo.cs
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\practikum\obj\Debug\net6.0\practikum.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\practikum\obj\Debug\net6.0\practikum.dll
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\practikum\obj\Debug\net6.0\ref\practikum.dll
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\practikum\obj\Debug\net6.0\practikum.pdb
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\practikum\obj\Debug\net6.0\practikum.genruntimeconfig.cache

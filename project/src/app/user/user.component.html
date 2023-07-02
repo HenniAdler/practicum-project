@@ -1,0 +1,90 @@
+<form #myForm="ngForm">
+
+    <mat-form-field appearance="fill">
+        <mat-label>שם פרטי</mat-label>
+        <input matInput name="first" required [(ngModel)]="this.userSer.CurrentUser.firstName" >
+    </mat-form-field>
+
+    <mat-form-field appearance="fill">
+        <mat-label>משפחה</mat-label>
+        <input matInput name="Last" required [(ngModel)]="this.userSer.CurrentUser.lastName">
+    </mat-form-field>
+
+
+    <mat-form-field appearance="fill">
+        <mat-label>תעודת זהות</mat-label>
+        <input matInput name="IdNumber"  [(ngModel)]="this.userSer.CurrentUser.IdNumber" 
+            pattern="[1-9]{9,9}" required>
+    </mat-form-field>
+
+    <mat-form-field appearance="fill">
+        <mat-label>תאריך לידה</mat-label>
+        <input matInput type="date" name="bornDate" required [(ngModel)]="this.userSer.CurrentUser.DateOfBirth"  >
+    </mat-form-field>
+
+    <mat-form-field appearance="fill">
+        <mat-label>מין</mat-label>
+        <mat-select name="gender">
+            <mat-option  disableRipple value="1">זכר </mat-option>
+            <mat-option   disableRipple value="2">נקבה </mat-option>
+        </mat-select>
+    </mat-form-field>
+    
+    
+    <mat-form-field appearance="fill">
+        <mat-label>קופת חולים</mat-label>
+        <mat-select name="hmo" [(ngModel)]="this.userSer.CurrentUser.Hmo">
+            <mat-option *ngFor="let hmo of HMO"  disableRipple value={{hmo}}>
+                {{hmo}}
+            </mat-option>
+        </mat-select>
+    </mat-form-field>
+
+
+    <div class="example-button-row">
+        <button mat-raised-button (click)="viewChild()">הוסף ילד</button>
+    </div>
+
+    <div *ngFor="let item of children">
+        <form class="inside" #myChildForm="ngForm">
+           
+
+            <mat-form-field appearance="fill">
+                <mat-label>תאריך לידה:</mat-label>
+                <input matInput type="date" name="childBornDate" required [(ngModel)]="item.DateOfBirth">
+            </mat-form-field>
+            <mat-form-field appearance="fill">
+                <mat-label>מספר זהות:</mat-label>
+                <input matInput name="childIdNumber" required [(ngModel)]="item.IdNumber">
+            </mat-form-field>
+            <mat-form-field appearance="fill">
+                <mat-label>שם פרטי:</mat-label>
+                <input matInput name="childName" required [(ngModel)]="item.Name">
+            </mat-form-field>
+
+            <button mat-raised-button [disabled]="!myChildForm.valid"  (click)="addChild(item)">שמור פרטי ילד</button>
+          
+        </form>
+
+    </div>
+
+    <button mat-raised-button type="submit" [disabled]="!myForm.valid" (click)="addUser()"> שמור פרטים</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</form>

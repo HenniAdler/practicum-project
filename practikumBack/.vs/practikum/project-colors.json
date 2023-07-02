@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "35416a0a-4483-4e45-bd6f-3119c6c29d43": {
+      "ProjectGuid": "35416a0a-4483-4e45-bd6f-3119c6c29d43",
+      "DisplayName": "practikum",
+      "ColorIndex": 0
+    },
+    "0e2af925-89a5-45f8-8c0d-fb674eefc4db": {
+      "ProjectGuid": "0e2af925-89a5-45f8-8c0d-fb674eefc4db",
+      "DisplayName": "MyDbContext",
+      "ColorIndex": 1
+    },
+    "3695db9f-104e-4a0d-9581-f86dc4deabd3": {
+      "ProjectGuid": "3695db9f-104e-4a0d-9581-f86dc4deabd3",
+      "DisplayName": "Repository",
+      "ColorIndex": 2
+    },
+    "036b41eb-efe7-452d-aa70-9c4dd322c690": {
+      "ProjectGuid": "036b41eb-efe7-452d-aa70-9c4dd322c690",
+      "DisplayName": "Services",
+      "ColorIndex": 3
+    },
+    "2b84254f-28e2-4104-baaa-bd9df80fc40d": {
+      "ProjectGuid": "2b84254f-28e2-4104-baaa-bd9df80fc40d",
+      "DisplayName": "Common",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "f9c434b8-16db-4071-91e5-3f9db4d8ca6c": {
+      "ProjectGuid": "f9c434b8-16db-4071-91e5-3f9db4d8ca6c",
+      "DisplayName": "WebAPI",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

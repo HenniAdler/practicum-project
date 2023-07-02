@@ -1,0 +1,53 @@
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\Services\bin\Debug\net6.0\Services.dll
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\Services\bin\Debug\net6.0\ref\Services.dll
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\Services\obj\Debug\net6.0\Services.dll
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\Services\obj\Debug\net6.0\ref\Services.dll
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\Services\bin\Debug\net6.0\Common.dll
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\Services\bin\Debug\net6.0\MyDbContext.dll
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\Services\bin\Debug\net6.0\Repository.dll
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\Services\bin\Debug\net6.0\Common.pdb
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\Services\bin\Debug\net6.0\MyDbContext.pdb
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\Services\bin\Debug\net6.0\Repository.pdb
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Users\User\Documents\תכנות\שנה ב\פרויקט פרקטיקום\practikumBack\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\User\Documents\תכנות\שנה ב\פרויקט פרקטיקום\practikumBack\Services\bin\Debug\net6.0\Services.dll
+C:\Users\User\Documents\תכנות\שנה ב\פרויקט פרקטיקום\practikumBack\Services\bin\Debug\net6.0\ref\Services.dll
+C:\Users\User\Documents\תכנות\שנה ב\פרויקט פרקטיקום\practikumBack\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\User\Documents\תכנות\שנה ב\פרויקט פרקטיקום\practikumBack\Services\bin\Debug\net6.0\MyDbContext.dll
+C:\Users\User\Documents\תכנות\שנה ב\פרויקט פרקטיקום\practikumBack\Services\bin\Debug\net6.0\Repository.dll
+C:\Users\User\Documents\תכנות\שנה ב\פרויקט פרקטיקום\practikumBack\Services\bin\Debug\net6.0\MyDbContext.pdb
+C:\Users\User\Documents\תכנות\שנה ב\פרויקט פרקטיקום\practikumBack\Services\bin\Debug\net6.0\Repository.pdb
+C:\Users\User\Documents\תכנות\שנה ב\פרויקט פרקטיקום\practikumBack\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\User\Documents\תכנות\שנה ב\פרויקט פרקטיקום\practikumBack\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\תכנות\שנה ב\פרויקט פרקטיקום\practikumBack\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\User\Documents\תכנות\שנה ב\פרויקט פרקטיקום\practikumBack\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\User\Documents\תכנות\שנה ב\פרויקט פרקטיקום\practikumBack\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\תכנות\שנה ב\פרויקט פרקטיקום\practikumBack\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Users\User\Documents\תכנות\שנה ב\פרויקט פרקטיקום\practikumBack\Services\obj\Debug\net6.0\Services.dll
+C:\Users\User\Documents\תכנות\שנה ב\פרויקט פרקטיקום\practikumBack\Services\obj\Debug\net6.0\ref\Services.dll
+C:\Users\User\Documents\תכנות\שנה ב\פרויקט פרקטיקום\practikumBack\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\User\Documents\תכנות\שנה ב\פרקטיקום\practikumBack\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\User\Documents\תכנות\שנה ב\פרקטיקום\practikumBack\Services\bin\Debug\net6.0\Services.dll
+C:\Users\User\Documents\תכנות\שנה ב\פרקטיקום\practikumBack\Services\bin\Debug\net6.0\ref\Services.dll
+C:\Users\User\Documents\תכנות\שנה ב\פרקטיקום\practikumBack\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\User\Documents\תכנות\שנה ב\פרקטיקום\practikumBack\Services\bin\Debug\net6.0\MyDbContext.dll
+C:\Users\User\Documents\תכנות\שנה ב\פרקטיקום\practikumBack\Services\bin\Debug\net6.0\Repository.dll
+C:\Users\User\Documents\תכנות\שנה ב\פרקטיקום\practikumBack\Services\bin\Debug\net6.0\MyDbContext.pdb
+C:\Users\User\Documents\תכנות\שנה ב\פרקטיקום\practikumBack\Services\bin\Debug\net6.0\Repository.pdb
+C:\Users\User\Documents\תכנות\שנה ב\פרקטיקום\practikumBack\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\User\Documents\תכנות\שנה ב\פרקטיקום\practikumBack\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\תכנות\שנה ב\פרקטיקום\practikumBack\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\User\Documents\תכנות\שנה ב\פרקטיקום\practikumBack\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\User\Documents\תכנות\שנה ב\פרקטיקום\practikumBack\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\תכנות\שנה ב\פרקטיקום\practikumBack\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Users\User\Documents\תכנות\שנה ב\פרקטיקום\practikumBack\Services\obj\Debug\net6.0\Services.dll
+C:\Users\User\Documents\תכנות\שנה ב\פרקטיקום\practikumBack\Services\obj\Debug\net6.0\ref\Services.dll
+C:\Users\User\Documents\תכנות\שנה ב\פרקטיקום\practikumBack\Services\obj\Debug\net6.0\Services.pdb

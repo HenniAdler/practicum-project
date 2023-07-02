@@ -1,0 +1,14 @@
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\DbContext\bin\Debug\net6.0\DbContext.deps.json
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\DbContext\bin\Debug\net6.0\DbContext.runtimeconfig.json
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\DbContext\bin\Debug\net6.0\DbContext.dll
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\DbContext\bin\Debug\net6.0\ref\DbContext.dll
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\DbContext\bin\Debug\net6.0\DbContext.pdb
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\DbContext\obj\Debug\net6.0\DbContext.csproj.AssemblyReference.cache
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\DbContext\obj\Debug\net6.0\DbContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\DbContext\obj\Debug\net6.0\DbContext.AssemblyInfoInputs.cache
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\DbContext\obj\Debug\net6.0\DbContext.AssemblyInfo.cs
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\DbContext\obj\Debug\net6.0\DbContext.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\DbContext\obj\Debug\net6.0\DbContext.dll
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\DbContext\obj\Debug\net6.0\ref\DbContext.dll
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\DbContext\obj\Debug\net6.0\DbContext.pdb
+C:\Users\User\Documents\תכנות\שנה ב\.net\practikum\DbContext\obj\Debug\net6.0\DbContext.genruntimeconfig.cache
